@@ -13,4 +13,7 @@ Hope it will minimize your time for manual creation of MVC structure in applicat
 3) export GOPATH=YOUR_PATH
  (set project path)
 
-4) Type command `go run test_api.go`
+4) Type command `go run test_api.go` 
+
+You can always reach out to me at aunraza021@gmail.com or +923314854717
+
